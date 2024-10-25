@@ -2,7 +2,7 @@
   "name": "noso-gongmoju",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Nozzi2.github.io/noso-gongmoju/",
+  "homepage": "https://Nozzi2.github.io/noso-gongmoju",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
