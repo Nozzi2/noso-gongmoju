@@ -1,6 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // 기본 설정
+  output: 'export',
+  basePath: '/noso-gongmoju',
+  images: {
+    unoptimized: true
+  }
 }
 
 module.exports = nextConfig
